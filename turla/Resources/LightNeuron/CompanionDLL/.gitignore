@@ -1,4 +1,0 @@
-build/
-.vscode/
-src/*.exe
-vcpkg_installed/

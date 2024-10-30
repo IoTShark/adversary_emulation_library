@@ -1,3 +1,0 @@
-EXPORTS
-DsRoleFreeMemory=_dsrole.DsRoleFreeMemory @1
-DsRoleGetPrimaryDomainInformation=_dsrole.DsRoleGetPrimaryDomainInformation @2

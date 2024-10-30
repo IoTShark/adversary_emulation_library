@@ -1,1 +1,0 @@
-package winreg_test

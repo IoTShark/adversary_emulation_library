@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "reflective_loading": {
-      "commandName": "Project",
-      "commandLineArgs": "--dinvoke"
-    }
-  }
-}

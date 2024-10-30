@@ -1,2 +1,0 @@
-#define Orchestrator_VERSION_MAJOR @Orchestrator_VERSION_MAJOR@
-#define Orchestrator_VERSION_MINOR @Orchestrator_VERSION_MINOR@

@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "ApacheEmu": {
-      "commandName": "Project",
-      "commandLineArgs": "-r"
-    }
-  }
-}
